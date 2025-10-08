@@ -53,7 +53,7 @@ and grow into a well-rounded **.NET Full-Stack Developer** capable of delivering
 ---
 
 ### 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rehman-873ab3363/)  
 - 📧 **Email:** [abdulrehmandev011@gmail.com](mailto:abdulrehmandev011@gmail.com)
 
 ---
