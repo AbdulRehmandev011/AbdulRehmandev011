@@ -1,7 +1,7 @@
 
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abdul+Rehman!;C#+&+ASP.NET+MVC+Developer;SQL+Server+|+Database+Optimization;Building+High-Performance+Web+Apps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abdul+Rehman!;C%23+and+ASP.NET+MVC+Developer;SQL+Server+|+Database+Optimization;Building+High-Performance+Web+Apps" alt="Typing Animation" />
 </div>
 
 <h3 align="center">💻 Full-Stack .NET Developer | Focused on Scalable & Efficient Solutions</h3>
